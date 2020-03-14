@@ -14,7 +14,7 @@ Microsoft SQL Server Management Studio (https://docs.microsoft.com/en-us/sql/ssm
 
 ## Authors
 
-* **Jeremy Wolfe** - *All Work* - (http://www.jeremywolfe.info)
+* **Jeremy Wolfe** - (http://www.jeremywolfe.info)
 
 
 ## License
