@@ -4,7 +4,7 @@ This project was used as my final project for a databases class held at the univ
 
 ## Getting Started
 
-Written in Microsoft SQL, this project requires a schema called jawolf7279. This schema can be changed, but it will have to be changed throughout the entirety of the project. Included in the project is a sql file to create the tables needed to get started. There are also a few procedures needed that are included in the project.
+This project requires a schema of jawolf7279. This schema can be changed, but will have to be changed throughout the entirety of the project. Included in the project is a sql file to create the tables that are needed to get started. There are also a few procedures included in the project that will need to be added to the database before adding inventory.
 
 ## Built With
 
