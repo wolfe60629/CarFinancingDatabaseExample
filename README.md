@@ -11,15 +11,3 @@ This project requires a schema of jawolf7279. This schema can be changed, but wi
 ```
 Microsoft SQL Server Management Studio (https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
 ```
-
-## Authors
-
-* **Jeremy Wolfe** - (http://www.jeremywolfe.info)
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-
-
