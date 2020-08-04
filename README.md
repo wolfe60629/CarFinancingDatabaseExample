@@ -25,6 +25,8 @@ This procedure will add a new vehicle to a customer's portfolio. The procedure w
 #### Pay Loan Procedure.sql 
 This will allow a customer to pay down on a current loan. The current loan will ONLY be paid down if the customer makes a payment that is more than the min payment for the customer. 
 
+#### Sell Vehicle Procedure.sql 
+This procedure allows a vehicle to be sold. Once sold, the buyer will have a loan that is floored out to them. They will also be given access to an online portal, which will allow them to pay of the loan in the future.
 
 ## Built With
 
